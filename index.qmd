@@ -1,0 +1,22 @@
+---
+title: "Lab 3s"
+author: "Emily Kuang"
+format:
+  html:
+    toc: true
+    toc_float: true
+    embed-resources: true
+execute: 
+  warning: false
+  message: false
+---
+
+## About Me
+My name is Emily Kuang. I am a senior biology major and psychology minor at the University of Massachusettes Amherst.
+
+## Image
+![Life Science Labs](images/biology.png){width="1000"}
+
+## Lab 7
+
+[Lab 7](Lab 7.html)
